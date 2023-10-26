@@ -5,7 +5,7 @@ Datawarehousing and mining Practical exam codes :
 1. Exp 1 star and snowflake schema
 2. make Olap cube
 
-### Experiments to be performed in WEKA (easy-peasy)
+### Experiments to be performed in WEKA (easy-peasy) install weka from its official website
 3. decision tree, naive bayes, random forrest
  
    naive bayes : https://youtu.be/_CYIZilARgw?si=m8En_2PIeLFr9cFw
