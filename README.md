@@ -22,3 +22,8 @@ that's it
 6. Kmeans algo
 7. Anyone Classifier ( we have chosen KNN as it is similar and almost same as K means)
 8. K medoid   
+
+
+Format : either both theory OR one theory one prac 
+
+ALSO FOCUS ON : BOTH ASSIGNMENTS' QUESTIONS AND ANSWERS
