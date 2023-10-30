@@ -16,13 +16,14 @@ Datawarehousing and mining Practical exam codes :
 random forrest : follow same as decision tree, select random forrest in place of decision tree 
 that's it 
 
-5. association mining rules : https://youtu.be/bMd5_8j1wJ8?si=IezXaPSAVlUW6UDv
+4. association mining rules : https://youtu.be/bMd5_8j1wJ8?si=IezXaPSAVlUW6UDv
 
 ### experimenst to be performed in Python (respective links are in notebook itself)
-6. Kmeans algo
-7. Anyone Classifier ( we have chosen KNN as it is similar and almost same as K means)
-8. K medoid   
+5. Kmeans algo
+6. Anyone Classifier ( we have chosen KNN as it is similar and almost same as K means)
+7. K medoid   
 
+8&9 Apriori algo and FP algo
 
 Format : either both theory OR one theory one prac 
 
